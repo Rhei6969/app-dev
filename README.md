@@ -1,4 +1,4 @@
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/9bc878e1-3a5a-459f-92ed-5116c733d59e" /># app-dev
+
 My first repository
 
 # The Mentalist
@@ -30,5 +30,4 @@ My first repository
 
 For more information, visit the [IMDb page](https://www.imdb.com/title/tt1196946/).
 
-![The Mentalist Logo](<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/58539eb4-92a7-47f0-b371-67c1eb13121e" />
-)
+![The Mentalist Logo](<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/58539eb4-92a7-47f0-b371-67c1eb13121e" />)
